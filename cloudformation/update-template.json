@@ -6,7 +6,7 @@
                 "Type": "AWS::S3::Bucket",
                 "Properties": {
                     "AccessControl": "Private",
-                    "BucketName": "meghana-cft-16-02-2021",
+                    "BucketName": "meghana-cft-02-16-2021",
                     "PublicAccessBlockConfiguration":{
                         "BlockPublicAcls": "true",
                         "BlockPublicPolicy": "true",
